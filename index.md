@@ -1,4 +1,4 @@
-## Ayush Singhal's First CS193 Homework
+# Ayush Singhal's First CS193 Homework
 - The tools and commands we are learning/ we will learn are very useful.
 - The classes are very engaging.
 ## Welcome to GitHub Pages
